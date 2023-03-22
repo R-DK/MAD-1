@@ -1,0 +1,15 @@
+table {
+    border: 1px solid black; 
+    border-collapse:collapse;
+    text-align:center;
+}
+th, td {
+    border: 1px solid black;
+    border-collapse : collapse;
+} 
+thead{
+    background-color: #00FF00;
+}
+tr:nth-child(even){
+    background-color: lightgray;
+}
