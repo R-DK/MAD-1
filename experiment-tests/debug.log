@@ -1,0 +1,546 @@
+2022-11-12 18:18:38,380 INFO main MainThread : Staring Local Development.
+2022-11-12 18:18:38,383 DEBUG passlib.registry MainThread : registered 'bcrypt' handler: <class 'passlib.handlers.bcrypt.bcrypt'>
+2022-11-12 18:18:38,385 DEBUG passlib.registry MainThread : registered 'des_crypt' handler: <class 'passlib.handlers.des_crypt.des_crypt'>
+2022-11-12 18:18:38,385 DEBUG passlib.registry MainThread : registered 'pbkdf2_sha256' handler: <class 'passlib.handlers.pbkdf2.pbkdf2_sha256'>
+2022-11-12 18:18:38,386 DEBUG passlib.registry MainThread : registered 'pbkdf2_sha512' handler: <class 'passlib.handlers.pbkdf2.pbkdf2_sha512'>
+2022-11-12 18:18:38,386 DEBUG passlib.registry MainThread : registered 'sha256_crypt' handler: <class 'passlib.handlers.sha2_crypt.sha256_crypt'>
+2022-11-12 18:18:38,386 DEBUG passlib.registry MainThread : registered 'sha512_crypt' handler: <class 'passlib.handlers.sha2_crypt.sha512_crypt'>
+2022-11-12 18:18:38,386 DEBUG passlib.registry MainThread : registered 'plaintext' handler: <class 'passlib.handlers.misc.plaintext'>
+2022-11-12 18:18:38,387 DEBUG passlib.registry MainThread : registered 'hex_md5' handler: <class 'passlib.handlers.digests.hex_md5'>
+2022-11-12 18:18:38,390 INFO main MainThread : App setup complete
+2022-11-12 18:18:38,395 INFO werkzeug MainThread : [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://10.3.3.228:8080
+2022-11-12 18:18:38,395 INFO werkzeug MainThread : [33mPress CTRL+C to quit[0m
+2022-11-12 18:18:38,395 INFO werkzeug MainThread :  * Restarting with stat
+2022-11-12 18:18:38,749 INFO main MainThread : Staring Local Development.
+2022-11-12 18:18:38,752 DEBUG passlib.registry MainThread : registered 'bcrypt' handler: <class 'passlib.handlers.bcrypt.bcrypt'>
+2022-11-12 18:18:38,754 DEBUG passlib.registry MainThread : registered 'des_crypt' handler: <class 'passlib.handlers.des_crypt.des_crypt'>
+2022-11-12 18:18:38,755 DEBUG passlib.registry MainThread : registered 'pbkdf2_sha256' handler: <class 'passlib.handlers.pbkdf2.pbkdf2_sha256'>
+2022-11-12 18:18:38,755 DEBUG passlib.registry MainThread : registered 'pbkdf2_sha512' handler: <class 'passlib.handlers.pbkdf2.pbkdf2_sha512'>
+2022-11-12 18:18:38,755 DEBUG passlib.registry MainThread : registered 'sha256_crypt' handler: <class 'passlib.handlers.sha2_crypt.sha256_crypt'>
+2022-11-12 18:18:38,755 DEBUG passlib.registry MainThread : registered 'sha512_crypt' handler: <class 'passlib.handlers.sha2_crypt.sha512_crypt'>
+2022-11-12 18:18:38,756 DEBUG passlib.registry MainThread : registered 'plaintext' handler: <class 'passlib.handlers.misc.plaintext'>
+2022-11-12 18:18:38,757 DEBUG passlib.registry MainThread : registered 'hex_md5' handler: <class 'passlib.handlers.digests.hex_md5'>
+2022-11-12 18:18:38,759 INFO main MainThread : App setup complete
+2022-11-12 18:18:38,764 WARNING werkzeug MainThread :  * Debugger is active!
+2022-11-12 18:18:38,819 INFO werkzeug MainThread :  * Debugger PIN: 522-690-455
+2022-11-12 18:18:53,610 INFO main Thread-2 : Inside get all articles using info
+2022-11-12 18:18:53,629 DEBUG main Thread-2 : Inside get all articles using debug
+2022-11-12 18:18:53,642 INFO werkzeug Thread-2 : 127.0.0.1 - - [12/Nov/2022 18:18:53] "GET / HTTP/1.1" 200 -
+2022-11-12 18:18:53,686 INFO werkzeug Thread-3 : 127.0.0.1 - - [12/Nov/2022 18:18:53] "GET /static/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 -
+2022-11-12 18:18:53,688 INFO werkzeug Thread-4 : 127.0.0.1 - - [12/Nov/2022 18:18:53] "GET /static/style.css HTTP/1.1" 200 -
+2022-11-12 18:18:53,690 INFO werkzeug Thread-5 : 127.0.0.1 - - [12/Nov/2022 18:18:53] "GET /static/js/custom_validations.js HTTP/1.1" 200 -
+2022-11-12 18:18:53,743 INFO werkzeug Thread-6 : 127.0.0.1 - - [12/Nov/2022 18:18:53] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2022-11-12 18:19:21,251 INFO werkzeug Thread-7 : 127.0.0.1 - - [12/Nov/2022 18:19:21] "[33mGET /sadfsdafgs HTTP/1.1[0m" 404 -
+2022-11-12 18:20:12,806 INFO werkzeug MainThread :  * Detected change in '/home/ram/Desktop/IIT-M/DIPLOMA/MAD-1/experiment-flask-security/application/controllers.py', reloading
+2022-11-12 18:20:12,891 INFO werkzeug MainThread :  * Restarting with stat
+2022-11-12 18:20:13,220 INFO main MainThread : Staring Local Development.
+2022-11-12 18:20:13,222 DEBUG passlib.registry MainThread : registered 'bcrypt' handler: <class 'passlib.handlers.bcrypt.bcrypt'>
+2022-11-12 18:20:13,224 DEBUG passlib.registry MainThread : registered 'des_crypt' handler: <class 'passlib.handlers.des_crypt.des_crypt'>
+2022-11-12 18:20:13,225 DEBUG passlib.registry MainThread : registered 'pbkdf2_sha256' handler: <class 'passlib.handlers.pbkdf2.pbkdf2_sha256'>
+2022-11-12 18:20:13,225 DEBUG passlib.registry MainThread : registered 'pbkdf2_sha512' handler: <class 'passlib.handlers.pbkdf2.pbkdf2_sha512'>
+2022-11-12 18:20:13,225 DEBUG passlib.registry MainThread : registered 'sha256_crypt' handler: <class 'passlib.handlers.sha2_crypt.sha256_crypt'>
+2022-11-12 18:20:13,225 DEBUG passlib.registry MainThread : registered 'sha512_crypt' handler: <class 'passlib.handlers.sha2_crypt.sha512_crypt'>
+2022-11-12 18:20:13,226 DEBUG passlib.registry MainThread : registered 'plaintext' handler: <class 'passlib.handlers.misc.plaintext'>
+2022-11-12 18:20:13,227 DEBUG passlib.registry MainThread : registered 'hex_md5' handler: <class 'passlib.handlers.digests.hex_md5'>
+2022-11-12 18:20:13,229 INFO main MainThread : App setup complete
+2022-11-12 18:20:13,234 WARNING werkzeug MainThread :  * Debugger is active!
+2022-11-12 18:20:13,235 INFO werkzeug MainThread :  * Debugger PIN: 522-690-455
+2022-11-12 18:22:16,141 INFO main Thread-2 : Inside get all articles using info
+2022-11-12 18:22:16,179 DEBUG main Thread-2 : Inside get all articles using debug
+2022-11-12 18:22:16,193 INFO werkzeug Thread-2 : 127.0.0.1 - - [12/Nov/2022 18:22:16] "GET / HTTP/1.1" 200 -
+2022-11-12 18:22:16,229 INFO werkzeug Thread-3 : 127.0.0.1 - - [12/Nov/2022 18:22:16] "GET /static/js/custom.js HTTP/1.1" 200 -
+2022-11-12 18:22:21,382 INFO werkzeug Thread-4 : 127.0.0.1 - - [12/Nov/2022 18:22:21] "GET /article/undefined HTTP/1.1" 200 -
+2022-11-12 18:22:23,326 INFO werkzeug Thread-5 : 127.0.0.1 - - [12/Nov/2022 18:22:23] "GET /article/undefined HTTP/1.1" 200 -
+2022-11-12 18:22:26,454 INFO werkzeug Thread-6 : 127.0.0.1 - - [12/Nov/2022 18:22:26] "GET /article/undefined HTTP/1.1" 200 -
+2022-11-12 18:22:29,581 INFO werkzeug Thread-7 : 127.0.0.1 - - [12/Nov/2022 18:22:29] "GET /article/undefined HTTP/1.1" 200 -
+2022-11-12 18:22:32,045 INFO werkzeug Thread-8 : 127.0.0.1 - - [12/Nov/2022 18:22:32] "GET /article/undefined HTTP/1.1" 200 -
+2022-11-12 18:23:52,323 INFO werkzeug Thread-9 : 127.0.0.1 - - [12/Nov/2022 18:23:52] "GET /feedback HTTP/1.1" 200 -
+2022-11-12 18:23:52,357 INFO werkzeug Thread-10 : 127.0.0.1 - - [12/Nov/2022 18:23:52] "[36mGET /static/js/custom.js HTTP/1.1[0m" 304 -
+2022-11-12 18:24:01,386 INFO werkzeug Thread-11 : 127.0.0.1 - - [12/Nov/2022 18:24:01] "[33mGET /thankyou HTTP/1.1[0m" 404 -
+2022-11-12 18:24:11,011 INFO werkzeug Thread-12 : 127.0.0.1 - - [12/Nov/2022 18:24:11] "GET /login HTTP/1.1" 200 -
+2022-11-12 18:25:40,628 INFO werkzeug MainThread :  * Detected change in '/home/ram/Desktop/IIT-M/DIPLOMA/MAD-1/experiment-flask-security/application/config.py', reloading
+2022-11-12 18:25:40,722 INFO werkzeug MainThread :  * Restarting with stat
+2022-11-12 18:25:41,047 INFO main MainThread : Staring Local Development.
+2022-11-12 18:25:41,049 DEBUG passlib.registry MainThread : registered 'bcrypt' handler: <class 'passlib.handlers.bcrypt.bcrypt'>
+2022-11-12 18:25:41,052 DEBUG passlib.registry MainThread : registered 'des_crypt' handler: <class 'passlib.handlers.des_crypt.des_crypt'>
+2022-11-12 18:25:41,052 DEBUG passlib.registry MainThread : registered 'pbkdf2_sha256' handler: <class 'passlib.handlers.pbkdf2.pbkdf2_sha256'>
+2022-11-12 18:25:41,052 DEBUG passlib.registry MainThread : registered 'pbkdf2_sha512' handler: <class 'passlib.handlers.pbkdf2.pbkdf2_sha512'>
+2022-11-12 18:25:41,053 DEBUG passlib.registry MainThread : registered 'sha256_crypt' handler: <class 'passlib.handlers.sha2_crypt.sha256_crypt'>
+2022-11-12 18:25:41,053 DEBUG passlib.registry MainThread : registered 'sha512_crypt' handler: <class 'passlib.handlers.sha2_crypt.sha512_crypt'>
+2022-11-12 18:25:41,053 DEBUG passlib.registry MainThread : registered 'plaintext' handler: <class 'passlib.handlers.misc.plaintext'>
+2022-11-12 18:25:41,054 DEBUG passlib.registry MainThread : registered 'hex_md5' handler: <class 'passlib.handlers.digests.hex_md5'>
+2022-11-12 18:25:41,057 INFO main MainThread : App setup complete
+2022-11-12 18:25:41,062 WARNING werkzeug MainThread :  * Debugger is active!
+2022-11-12 18:25:41,062 INFO werkzeug MainThread :  * Debugger PIN: 522-690-455
+2022-11-12 18:25:45,380 INFO werkzeug Thread-2 : 127.0.0.1 - - [12/Nov/2022 18:25:45] "GET /login HTTP/1.1" 200 -
+2022-11-12 18:26:17,467 INFO werkzeug MainThread :  * Detected change in '/home/ram/Desktop/IIT-M/DIPLOMA/MAD-1/experiment-flask-security/application/controllers.py', reloading
+2022-11-12 18:26:17,561 INFO werkzeug MainThread :  * Restarting with stat
+2022-11-12 18:26:17,908 INFO main MainThread : Staring Local Development.
+2022-11-12 18:26:17,910 DEBUG passlib.registry MainThread : registered 'bcrypt' handler: <class 'passlib.handlers.bcrypt.bcrypt'>
+2022-11-12 18:26:17,913 DEBUG passlib.registry MainThread : registered 'des_crypt' handler: <class 'passlib.handlers.des_crypt.des_crypt'>
+2022-11-12 18:26:17,913 DEBUG passlib.registry MainThread : registered 'pbkdf2_sha256' handler: <class 'passlib.handlers.pbkdf2.pbkdf2_sha256'>
+2022-11-12 18:26:17,913 DEBUG passlib.registry MainThread : registered 'pbkdf2_sha512' handler: <class 'passlib.handlers.pbkdf2.pbkdf2_sha512'>
+2022-11-12 18:26:17,914 DEBUG passlib.registry MainThread : registered 'sha256_crypt' handler: <class 'passlib.handlers.sha2_crypt.sha256_crypt'>
+2022-11-12 18:26:17,914 DEBUG passlib.registry MainThread : registered 'sha512_crypt' handler: <class 'passlib.handlers.sha2_crypt.sha512_crypt'>
+2022-11-12 18:26:17,914 DEBUG passlib.registry MainThread : registered 'plaintext' handler: <class 'passlib.handlers.misc.plaintext'>
+2022-11-12 18:26:17,915 DEBUG passlib.registry MainThread : registered 'hex_md5' handler: <class 'passlib.handlers.digests.hex_md5'>
+2022-11-12 18:26:17,918 INFO main MainThread : App setup complete
+2022-11-12 18:28:03,580 INFO main MainThread : Staring Local Development.
+2022-11-12 18:28:03,592 DEBUG passlib.registry MainThread : registered 'bcrypt' handler: <class 'passlib.handlers.bcrypt.bcrypt'>
+2022-11-12 18:28:03,598 DEBUG passlib.registry MainThread : registered 'des_crypt' handler: <class 'passlib.handlers.des_crypt.des_crypt'>
+2022-11-12 18:28:03,599 DEBUG passlib.registry MainThread : registered 'pbkdf2_sha256' handler: <class 'passlib.handlers.pbkdf2.pbkdf2_sha256'>
+2022-11-12 18:28:03,599 DEBUG passlib.registry MainThread : registered 'pbkdf2_sha512' handler: <class 'passlib.handlers.pbkdf2.pbkdf2_sha512'>
+2022-11-12 18:28:03,600 DEBUG passlib.registry MainThread : registered 'sha256_crypt' handler: <class 'passlib.handlers.sha2_crypt.sha256_crypt'>
+2022-11-12 18:28:03,600 DEBUG passlib.registry MainThread : registered 'sha512_crypt' handler: <class 'passlib.handlers.sha2_crypt.sha512_crypt'>
+2022-11-12 18:28:03,601 DEBUG passlib.registry MainThread : registered 'plaintext' handler: <class 'passlib.handlers.misc.plaintext'>
+2022-11-12 18:28:03,603 DEBUG passlib.registry MainThread : registered 'hex_md5' handler: <class 'passlib.handlers.digests.hex_md5'>
+2022-11-12 18:28:03,606 INFO main MainThread : App setup complete
+2022-11-12 18:30:52,557 INFO main MainThread : Staring Local Development.
+2022-11-12 18:30:52,559 DEBUG passlib.registry MainThread : registered 'bcrypt' handler: <class 'passlib.handlers.bcrypt.bcrypt'>
+2022-11-12 18:30:52,562 DEBUG passlib.registry MainThread : registered 'des_crypt' handler: <class 'passlib.handlers.des_crypt.des_crypt'>
+2022-11-12 18:30:52,562 DEBUG passlib.registry MainThread : registered 'pbkdf2_sha256' handler: <class 'passlib.handlers.pbkdf2.pbkdf2_sha256'>
+2022-11-12 18:30:52,562 DEBUG passlib.registry MainThread : registered 'pbkdf2_sha512' handler: <class 'passlib.handlers.pbkdf2.pbkdf2_sha512'>
+2022-11-12 18:30:52,563 DEBUG passlib.registry MainThread : registered 'sha256_crypt' handler: <class 'passlib.handlers.sha2_crypt.sha256_crypt'>
+2022-11-12 18:30:52,563 DEBUG passlib.registry MainThread : registered 'sha512_crypt' handler: <class 'passlib.handlers.sha2_crypt.sha512_crypt'>
+2022-11-12 18:30:52,563 DEBUG passlib.registry MainThread : registered 'plaintext' handler: <class 'passlib.handlers.misc.plaintext'>
+2022-11-12 18:30:52,564 DEBUG passlib.registry MainThread : registered 'hex_md5' handler: <class 'passlib.handlers.digests.hex_md5'>
+2022-11-12 18:30:52,566 INFO main MainThread : App setup complete
+2022-11-12 18:33:52,060 INFO main MainThread : Staring Local Development.
+2022-11-12 18:33:52,062 DEBUG passlib.registry MainThread : registered 'bcrypt' handler: <class 'passlib.handlers.bcrypt.bcrypt'>
+2022-11-12 18:33:52,065 DEBUG passlib.registry MainThread : registered 'des_crypt' handler: <class 'passlib.handlers.des_crypt.des_crypt'>
+2022-11-12 18:33:52,065 DEBUG passlib.registry MainThread : registered 'pbkdf2_sha256' handler: <class 'passlib.handlers.pbkdf2.pbkdf2_sha256'>
+2022-11-12 18:33:52,065 DEBUG passlib.registry MainThread : registered 'pbkdf2_sha512' handler: <class 'passlib.handlers.pbkdf2.pbkdf2_sha512'>
+2022-11-12 18:33:52,065 DEBUG passlib.registry MainThread : registered 'sha256_crypt' handler: <class 'passlib.handlers.sha2_crypt.sha256_crypt'>
+2022-11-12 18:33:52,066 DEBUG passlib.registry MainThread : registered 'sha512_crypt' handler: <class 'passlib.handlers.sha2_crypt.sha512_crypt'>
+2022-11-12 18:33:52,066 DEBUG passlib.registry MainThread : registered 'plaintext' handler: <class 'passlib.handlers.misc.plaintext'>
+2022-11-12 18:33:52,067 DEBUG passlib.registry MainThread : registered 'hex_md5' handler: <class 'passlib.handlers.digests.hex_md5'>
+2022-11-12 18:33:52,069 INFO main MainThread : App setup complete
+2022-11-12 18:33:52,075 INFO werkzeug MainThread : [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://10.3.3.228:8080
+2022-11-12 18:33:52,076 INFO werkzeug MainThread : [33mPress CTRL+C to quit[0m
+2022-11-12 18:33:52,076 INFO werkzeug MainThread :  * Restarting with stat
+2022-11-12 18:33:52,393 INFO main MainThread : Staring Local Development.
+2022-11-12 18:33:52,396 DEBUG passlib.registry MainThread : registered 'bcrypt' handler: <class 'passlib.handlers.bcrypt.bcrypt'>
+2022-11-12 18:33:52,398 DEBUG passlib.registry MainThread : registered 'des_crypt' handler: <class 'passlib.handlers.des_crypt.des_crypt'>
+2022-11-12 18:33:52,398 DEBUG passlib.registry MainThread : registered 'pbkdf2_sha256' handler: <class 'passlib.handlers.pbkdf2.pbkdf2_sha256'>
+2022-11-12 18:33:52,398 DEBUG passlib.registry MainThread : registered 'pbkdf2_sha512' handler: <class 'passlib.handlers.pbkdf2.pbkdf2_sha512'>
+2022-11-12 18:33:52,399 DEBUG passlib.registry MainThread : registered 'sha256_crypt' handler: <class 'passlib.handlers.sha2_crypt.sha256_crypt'>
+2022-11-12 18:33:52,399 DEBUG passlib.registry MainThread : registered 'sha512_crypt' handler: <class 'passlib.handlers.sha2_crypt.sha512_crypt'>
+2022-11-12 18:33:52,399 DEBUG passlib.registry MainThread : registered 'plaintext' handler: <class 'passlib.handlers.misc.plaintext'>
+2022-11-12 18:33:52,400 DEBUG passlib.registry MainThread : registered 'hex_md5' handler: <class 'passlib.handlers.digests.hex_md5'>
+2022-11-12 18:33:52,403 INFO main MainThread : App setup complete
+2022-11-12 18:33:52,407 WARNING werkzeug MainThread :  * Debugger is active!
+2022-11-12 18:33:52,408 INFO werkzeug MainThread :  * Debugger PIN: 522-690-455
+2022-11-12 18:33:57,891 INFO main Thread-2 : Inside get all articles using info
+2022-11-12 18:33:57,909 DEBUG main Thread-2 : Inside get all articles using debug
+2022-11-12 18:33:57,922 INFO werkzeug Thread-2 : 127.0.0.1 - - [12/Nov/2022 18:33:57] "GET / HTTP/1.1" 200 -
+2022-11-12 18:33:57,975 INFO werkzeug Thread-3 : 127.0.0.1 - - [12/Nov/2022 18:33:57] "[36mGET /static/js/custom.js HTTP/1.1[0m" 304 -
+2022-11-12 18:34:04,056 INFO werkzeug Thread-4 : 127.0.0.1 - - [12/Nov/2022 18:34:04] "GET /login HTTP/1.1" 200 -
+2022-11-12 18:34:25,724 INFO werkzeug Thread-5 : 127.0.0.1 - - [12/Nov/2022 18:34:25] "[33mGET /adff HTTP/1.1[0m" 404 -
+2022-11-12 18:34:40,600 INFO werkzeug Thread-6 : 127.0.0.1 - - [12/Nov/2022 18:34:40] "GET /register HTTP/1.1" 200 -
+2022-11-12 18:37:57,565 DEBUG passlib.handlers.bcrypt Thread-7 : detected 'bcrypt' backend, version '4.0.1'
+2022-11-12 18:37:57,565 DEBUG passlib.handlers.bcrypt Thread-7 : 'bcrypt' backend lacks $2$ support, enabling workaround
+2022-11-12 18:38:02,857 INFO werkzeug Thread-7 : 127.0.0.1 - - [12/Nov/2022 18:38:02] "[35m[1mPOST /register HTTP/1.1[0m" 500 -
+2022-11-12 18:38:02,892 INFO werkzeug Thread-8 : 127.0.0.1 - - [12/Nov/2022 18:38:02] "GET /register?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2022-11-12 18:38:02,895 INFO werkzeug Thread-9 : 127.0.0.1 - - [12/Nov/2022 18:38:02] "GET /register?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2022-11-12 18:38:02,917 INFO werkzeug Thread-10 : 127.0.0.1 - - [12/Nov/2022 18:38:02] "GET /register?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2022-11-12 18:38:02,972 INFO werkzeug Thread-11 : 127.0.0.1 - - [12/Nov/2022 18:38:02] "[36mGET /register?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2022-11-12 18:43:43,856 INFO werkzeug Thread-12 : 127.0.0.1 - - [12/Nov/2022 18:43:43] "GET /register HTTP/1.1" 200 -
+2022-11-12 18:44:00,932 INFO werkzeug Thread-13 : 127.0.0.1 - - [12/Nov/2022 18:44:00] "[32mPOST /register HTTP/1.1[0m" 302 -
+2022-11-12 18:44:00,937 INFO main Thread-14 : Inside get all articles using info
+2022-11-12 18:44:00,938 DEBUG main Thread-14 : Inside get all articles using debug
+2022-11-12 18:44:00,941 INFO werkzeug Thread-14 : 127.0.0.1 - - [12/Nov/2022 18:44:00] "GET / HTTP/1.1" 200 -
+2022-11-12 18:44:00,969 INFO werkzeug Thread-15 : 127.0.0.1 - - [12/Nov/2022 18:44:00] "GET /static/js/custom.js HTTP/1.1" 200 -
+2022-11-12 18:47:28,800 INFO werkzeug Thread-16 : 127.0.0.1 - - [12/Nov/2022 18:47:28] "GET /articles_by/thejeshgn HTTP/1.1" 200 -
+2022-11-12 18:47:28,834 INFO werkzeug Thread-17 : 127.0.0.1 - - [12/Nov/2022 18:47:28] "[36mGET /static/bootstrap/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+2022-11-12 18:47:28,840 INFO werkzeug Thread-18 : 127.0.0.1 - - [12/Nov/2022 18:47:28] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2022-11-12 18:48:11,893 INFO main Thread-19 : Inside get all articles using info
+2022-11-12 18:48:11,896 DEBUG main Thread-19 : Inside get all articles using debug
+2022-11-12 18:48:11,908 INFO werkzeug Thread-19 : 127.0.0.1 - - [12/Nov/2022 18:48:11] "GET / HTTP/1.1" 200 -
+2022-11-12 18:48:11,968 INFO werkzeug Thread-20 : 127.0.0.1 - - [12/Nov/2022 18:48:11] "[36mGET /static/js/custom.js HTTP/1.1[0m" 304 -
+2022-11-12 18:48:20,941 INFO werkzeug Thread-21 : 127.0.0.1 - - [12/Nov/2022 18:48:20] "GET /feedback HTTP/1.1" 200 -
+2022-11-12 18:48:21,013 INFO werkzeug Thread-22 : 127.0.0.1 - - [12/Nov/2022 18:48:21] "[36mGET /static/js/custom.js HTTP/1.1[0m" 304 -
+2022-11-12 18:48:28,778 INFO werkzeug Thread-23 : 127.0.0.1 - - [12/Nov/2022 18:48:28] "[32mGET /logout HTTP/1.1[0m" 302 -
+2022-11-12 18:48:28,783 INFO main Thread-24 : Inside get all articles using info
+2022-11-12 18:48:28,785 DEBUG main Thread-24 : Inside get all articles using debug
+2022-11-12 18:48:28,790 INFO werkzeug Thread-24 : 127.0.0.1 - - [12/Nov/2022 18:48:28] "GET / HTTP/1.1" 200 -
+2022-11-12 18:48:28,825 INFO werkzeug Thread-25 : 127.0.0.1 - - [12/Nov/2022 18:48:28] "[36mGET /static/js/custom.js HTTP/1.1[0m" 304 -
+2022-11-12 18:48:32,972 INFO werkzeug Thread-26 : 127.0.0.1 - - [12/Nov/2022 18:48:32] "[32mGET /feedback HTTP/1.1[0m" 302 -
+2022-11-12 18:48:32,981 INFO werkzeug Thread-27 : 127.0.0.1 - - [12/Nov/2022 18:48:32] "GET /login?next=%2Ffeedback HTTP/1.1" 200 -
+2022-11-12 18:49:21,164 INFO werkzeug Thread-28 : 127.0.0.1 - - [12/Nov/2022 18:49:21] "[32mPOST /login HTTP/1.1[0m" 302 -
+2022-11-12 18:49:21,174 INFO werkzeug Thread-29 : 127.0.0.1 - - [12/Nov/2022 18:49:21] "GET /feedback HTTP/1.1" 200 -
+2022-11-12 18:49:21,211 INFO werkzeug Thread-30 : 127.0.0.1 - - [12/Nov/2022 18:49:21] "GET /static/js/custom.js HTTP/1.1" 200 -
+2022-11-12 18:51:00,697 INFO werkzeug Thread-31 : 127.0.0.1 - - [12/Nov/2022 18:51:00] "GET /feedback HTTP/1.1" 200 -
+2022-11-12 18:51:00,726 INFO werkzeug Thread-32 : 127.0.0.1 - - [12/Nov/2022 18:51:00] "GET /static/bootstrap/js/bootstrap.min.js HTTP/1.1" 200 -
+2022-11-12 18:51:00,748 INFO werkzeug Thread-33 : 127.0.0.1 - - [12/Nov/2022 18:51:00] "GET /static/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 -
+2022-11-12 18:51:00,750 INFO werkzeug Thread-35 : 127.0.0.1 - - [12/Nov/2022 18:51:00] "[36mGET /static/js/custom.js HTTP/1.1[0m" 304 -
+2022-11-12 18:51:00,752 INFO werkzeug Thread-34 : 127.0.0.1 - - [12/Nov/2022 18:51:00] "GET /static/style.css HTTP/1.1" 200 -
+2022-11-12 18:51:24,216 INFO main Thread-36 : Inside get all articles using info
+2022-11-12 18:51:24,217 DEBUG main Thread-36 : Inside get all articles using debug
+2022-11-12 18:51:24,223 INFO werkzeug Thread-36 : 127.0.0.1 - - [12/Nov/2022 18:51:24] "GET / HTTP/1.1" 200 -
+2022-11-12 18:51:24,259 INFO werkzeug Thread-37 : 127.0.0.1 - - [12/Nov/2022 18:51:24] "[36mGET /static/js/custom.js HTTP/1.1[0m" 304 -
+2022-11-12 19:00:08,689 INFO main Thread-38 : Inside get all articles using info
+2022-11-12 19:00:08,690 DEBUG main Thread-38 : Inside get all articles using debug
+2022-11-12 19:00:08,705 INFO werkzeug Thread-38 : 127.0.0.1 - - [12/Nov/2022 19:00:08] "GET / HTTP/1.1" 200 -
+2022-11-12 19:00:08,738 INFO werkzeug Thread-39 : 127.0.0.1 - - [12/Nov/2022 19:00:08] "[36mGET /static/js/custom.js HTTP/1.1[0m" 304 -
+2022-11-12 19:01:26,104 INFO main Thread-40 : Inside get all articles using info
+2022-11-12 19:01:26,105 DEBUG main Thread-40 : Inside get all articles using debug
+2022-11-12 19:01:26,109 INFO werkzeug Thread-40 : 127.0.0.1 - - [12/Nov/2022 19:01:26] "GET / HTTP/1.1" 200 -
+2022-11-12 19:01:26,146 INFO werkzeug Thread-41 : 127.0.0.1 - - [12/Nov/2022 19:01:26] "[36mGET /static/js/custom.js HTTP/1.1[0m" 304 -
+2022-11-12 19:01:29,078 INFO werkzeug Thread-42 : 127.0.0.1 - - [12/Nov/2022 19:01:29] "[32mGET /login HTTP/1.1[0m" 302 -
+2022-11-12 19:01:29,100 INFO main Thread-43 : Inside get all articles using info
+2022-11-12 19:01:29,101 DEBUG main Thread-43 : Inside get all articles using debug
+2022-11-12 19:01:29,113 INFO werkzeug Thread-43 : 127.0.0.1 - - [12/Nov/2022 19:01:29] "GET / HTTP/1.1" 200 -
+2022-11-12 19:01:29,155 INFO werkzeug Thread-44 : 127.0.0.1 - - [12/Nov/2022 19:01:29] "[36mGET /static/js/custom.js HTTP/1.1[0m" 304 -
+2022-11-12 19:01:31,888 INFO werkzeug Thread-45 : 127.0.0.1 - - [12/Nov/2022 19:01:31] "[32mGET /login HTTP/1.1[0m" 302 -
+2022-11-12 19:01:31,899 INFO main Thread-46 : Inside get all articles using info
+2022-11-12 19:01:31,899 DEBUG main Thread-46 : Inside get all articles using debug
+2022-11-12 19:01:31,905 INFO werkzeug Thread-46 : 127.0.0.1 - - [12/Nov/2022 19:01:31] "GET / HTTP/1.1" 200 -
+2022-11-12 19:01:31,936 INFO werkzeug Thread-47 : 127.0.0.1 - - [12/Nov/2022 19:01:31] "[36mGET /static/js/custom.js HTTP/1.1[0m" 304 -
+2022-11-12 19:02:05,651 INFO werkzeug Thread-48 : 127.0.0.1 - - [12/Nov/2022 19:02:05] "[32mGET /login HTTP/1.1[0m" 302 -
+2022-11-12 19:02:05,656 INFO main Thread-49 : Inside get all articles using info
+2022-11-12 19:02:05,657 DEBUG main Thread-49 : Inside get all articles using debug
+2022-11-12 19:02:05,661 INFO werkzeug Thread-49 : 127.0.0.1 - - [12/Nov/2022 19:02:05] "GET / HTTP/1.1" 200 -
+2022-11-12 19:02:05,697 INFO werkzeug Thread-50 : 127.0.0.1 - - [12/Nov/2022 19:02:05] "[36mGET /static/js/custom.js HTTP/1.1[0m" 304 -
+2022-11-12 19:03:18,206 INFO werkzeug Thread-51 : 127.0.0.1 - - [12/Nov/2022 19:03:18] "[32mGET /register HTTP/1.1[0m" 302 -
+2022-11-12 19:03:18,219 INFO main Thread-52 : Inside get all articles using info
+2022-11-12 19:03:18,219 DEBUG main Thread-52 : Inside get all articles using debug
+2022-11-12 19:03:18,226 INFO werkzeug Thread-52 : 127.0.0.1 - - [12/Nov/2022 19:03:18] "GET / HTTP/1.1" 200 -
+2022-11-12 19:03:18,261 INFO werkzeug Thread-53 : 127.0.0.1 - - [12/Nov/2022 19:03:18] "[36mGET /static/js/custom.js HTTP/1.1[0m" 304 -
+2022-11-12 19:03:19,165 INFO werkzeug Thread-54 : 127.0.0.1 - - [12/Nov/2022 19:03:19] "[32mGET /login HTTP/1.1[0m" 302 -
+2022-11-12 19:03:19,189 INFO main Thread-55 : Inside get all articles using info
+2022-11-12 19:03:19,192 DEBUG main Thread-55 : Inside get all articles using debug
+2022-11-12 19:03:19,205 INFO werkzeug Thread-55 : 127.0.0.1 - - [12/Nov/2022 19:03:19] "GET / HTTP/1.1" 200 -
+2022-11-12 19:03:19,256 INFO werkzeug Thread-56 : 127.0.0.1 - - [12/Nov/2022 19:03:19] "[36mGET /static/js/custom.js HTTP/1.1[0m" 304 -
+2022-11-12 19:04:11,707 INFO main MainThread : Staring Local Development.
+2022-11-12 19:04:11,709 DEBUG passlib.registry MainThread : registered 'bcrypt' handler: <class 'passlib.handlers.bcrypt.bcrypt'>
+2022-11-12 19:04:11,711 DEBUG passlib.registry MainThread : registered 'des_crypt' handler: <class 'passlib.handlers.des_crypt.des_crypt'>
+2022-11-12 19:04:11,712 DEBUG passlib.registry MainThread : registered 'pbkdf2_sha256' handler: <class 'passlib.handlers.pbkdf2.pbkdf2_sha256'>
+2022-11-12 19:04:11,712 DEBUG passlib.registry MainThread : registered 'pbkdf2_sha512' handler: <class 'passlib.handlers.pbkdf2.pbkdf2_sha512'>
+2022-11-12 19:04:11,712 DEBUG passlib.registry MainThread : registered 'sha256_crypt' handler: <class 'passlib.handlers.sha2_crypt.sha256_crypt'>
+2022-11-12 19:04:11,712 DEBUG passlib.registry MainThread : registered 'sha512_crypt' handler: <class 'passlib.handlers.sha2_crypt.sha512_crypt'>
+2022-11-12 19:04:11,713 DEBUG passlib.registry MainThread : registered 'plaintext' handler: <class 'passlib.handlers.misc.plaintext'>
+2022-11-12 19:04:11,714 DEBUG passlib.registry MainThread : registered 'hex_md5' handler: <class 'passlib.handlers.digests.hex_md5'>
+2022-11-12 19:04:11,716 INFO main MainThread : App setup complete
+2022-11-12 19:04:11,722 INFO werkzeug MainThread : [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://10.3.3.228:8080
+2022-11-12 19:04:11,722 INFO werkzeug MainThread : [33mPress CTRL+C to quit[0m
+2022-11-12 19:04:11,722 INFO werkzeug MainThread :  * Restarting with stat
+2022-11-12 19:04:12,038 INFO main MainThread : Staring Local Development.
+2022-11-12 19:04:12,041 DEBUG passlib.registry MainThread : registered 'bcrypt' handler: <class 'passlib.handlers.bcrypt.bcrypt'>
+2022-11-12 19:04:12,043 DEBUG passlib.registry MainThread : registered 'des_crypt' handler: <class 'passlib.handlers.des_crypt.des_crypt'>
+2022-11-12 19:04:12,044 DEBUG passlib.registry MainThread : registered 'pbkdf2_sha256' handler: <class 'passlib.handlers.pbkdf2.pbkdf2_sha256'>
+2022-11-12 19:04:12,044 DEBUG passlib.registry MainThread : registered 'pbkdf2_sha512' handler: <class 'passlib.handlers.pbkdf2.pbkdf2_sha512'>
+2022-11-12 19:04:12,044 DEBUG passlib.registry MainThread : registered 'sha256_crypt' handler: <class 'passlib.handlers.sha2_crypt.sha256_crypt'>
+2022-11-12 19:04:12,044 DEBUG passlib.registry MainThread : registered 'sha512_crypt' handler: <class 'passlib.handlers.sha2_crypt.sha512_crypt'>
+2022-11-12 19:04:12,045 DEBUG passlib.registry MainThread : registered 'plaintext' handler: <class 'passlib.handlers.misc.plaintext'>
+2022-11-12 19:04:12,046 DEBUG passlib.registry MainThread : registered 'hex_md5' handler: <class 'passlib.handlers.digests.hex_md5'>
+2022-11-12 19:04:12,048 INFO main MainThread : App setup complete
+2022-11-12 19:04:12,053 WARNING werkzeug MainThread :  * Debugger is active!
+2022-11-12 19:04:12,053 INFO werkzeug MainThread :  * Debugger PIN: 522-690-455
+2022-11-12 19:04:14,574 INFO main Thread-2 : Inside get all articles using info
+2022-11-12 19:04:14,576 DEBUG main Thread-2 : Inside get all articles using debug
+2022-11-12 19:04:14,587 INFO werkzeug Thread-2 : 127.0.0.1 - - [12/Nov/2022 19:04:14] "GET / HTTP/1.1" 200 -
+2022-11-12 19:04:14,615 INFO werkzeug Thread-3 : 127.0.0.1 - - [12/Nov/2022 19:04:14] "[36mGET /static/js/custom.js HTTP/1.1[0m" 304 -
+2022-11-12 19:04:16,276 INFO werkzeug Thread-4 : 127.0.0.1 - - [12/Nov/2022 19:04:16] "[32mGET /login HTTP/1.1[0m" 302 -
+2022-11-12 19:04:16,286 INFO main Thread-5 : Inside get all articles using info
+2022-11-12 19:04:16,287 DEBUG main Thread-5 : Inside get all articles using debug
+2022-11-12 19:04:16,293 INFO werkzeug Thread-5 : 127.0.0.1 - - [12/Nov/2022 19:04:16] "GET / HTTP/1.1" 200 -
+2022-11-12 19:04:16,330 INFO werkzeug Thread-6 : 127.0.0.1 - - [12/Nov/2022 19:04:16] "[36mGET /static/js/custom.js HTTP/1.1[0m" 304 -
+2022-11-12 19:04:24,128 INFO werkzeug Thread-7 : 127.0.0.1 - - [12/Nov/2022 19:04:24] "[32mGET /register HTTP/1.1[0m" 302 -
+2022-11-12 19:04:24,135 INFO main Thread-8 : Inside get all articles using info
+2022-11-12 19:04:24,136 DEBUG main Thread-8 : Inside get all articles using debug
+2022-11-12 19:04:24,143 INFO werkzeug Thread-8 : 127.0.0.1 - - [12/Nov/2022 19:04:24] "GET / HTTP/1.1" 200 -
+2022-11-12 19:04:24,171 INFO werkzeug Thread-9 : 127.0.0.1 - - [12/Nov/2022 19:04:24] "[36mGET /static/js/custom.js HTTP/1.1[0m" 304 -
+2022-11-12 19:04:28,036 INFO werkzeug Thread-10 : 127.0.0.1 - - [12/Nov/2022 19:04:28] "[32mGET /login HTTP/1.1[0m" 302 -
+2022-11-12 19:04:28,043 INFO main Thread-11 : Inside get all articles using info
+2022-11-12 19:04:28,043 DEBUG main Thread-11 : Inside get all articles using debug
+2022-11-12 19:04:28,048 INFO werkzeug Thread-11 : 127.0.0.1 - - [12/Nov/2022 19:04:28] "GET / HTTP/1.1" 200 -
+2022-11-12 19:04:28,086 INFO werkzeug Thread-12 : 127.0.0.1 - - [12/Nov/2022 19:04:28] "[36mGET /static/js/custom.js HTTP/1.1[0m" 304 -
+2022-11-12 19:04:34,300 INFO werkzeug Thread-13 : 127.0.0.1 - - [12/Nov/2022 19:04:34] "GET /feedback HTTP/1.1" 200 -
+2022-11-12 19:04:34,354 INFO werkzeug Thread-14 : 127.0.0.1 - - [12/Nov/2022 19:04:34] "[36mGET /static/bootstrap/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+2022-11-12 19:04:34,361 INFO werkzeug Thread-15 : 127.0.0.1 - - [12/Nov/2022 19:04:34] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2022-11-12 19:04:34,363 INFO werkzeug Thread-17 : 127.0.0.1 - - [12/Nov/2022 19:04:34] "[36mGET /static/js/custom.js HTTP/1.1[0m" 304 -
+2022-11-12 19:04:34,364 INFO werkzeug Thread-16 : 127.0.0.1 - - [12/Nov/2022 19:04:34] "[36mGET /static/bootstrap/js/bootstrap.min.js HTTP/1.1[0m" 304 -
+2022-11-12 19:04:37,265 INFO werkzeug Thread-18 : 127.0.0.1 - - [12/Nov/2022 19:04:37] "[32mGET /login HTTP/1.1[0m" 302 -
+2022-11-12 19:04:37,274 INFO main Thread-19 : Inside get all articles using info
+2022-11-12 19:04:37,275 DEBUG main Thread-19 : Inside get all articles using debug
+2022-11-12 19:04:37,283 INFO werkzeug Thread-19 : 127.0.0.1 - - [12/Nov/2022 19:04:37] "GET / HTTP/1.1" 200 -
+2022-11-12 19:04:37,320 INFO werkzeug Thread-20 : 127.0.0.1 - - [12/Nov/2022 19:04:37] "[36mGET /static/js/custom.js HTTP/1.1[0m" 304 -
+2022-11-12 19:04:44,894 INFO werkzeug Thread-21 : 127.0.0.1 - - [12/Nov/2022 19:04:44] "[32mGET /register HTTP/1.1[0m" 302 -
+2022-11-12 19:04:44,923 INFO main Thread-22 : Inside get all articles using info
+2022-11-12 19:04:44,926 DEBUG main Thread-22 : Inside get all articles using debug
+2022-11-12 19:04:44,938 INFO werkzeug Thread-22 : 127.0.0.1 - - [12/Nov/2022 19:04:44] "GET / HTTP/1.1" 200 -
+2022-11-12 19:04:44,989 INFO werkzeug Thread-23 : 127.0.0.1 - - [12/Nov/2022 19:04:44] "[36mGET /static/js/custom.js HTTP/1.1[0m" 304 -
+2022-11-12 19:08:32,073 INFO werkzeug Thread-24 : 127.0.0.1 - - [12/Nov/2022 19:08:32] "[32mGET /login HTTP/1.1[0m" 302 -
+2022-11-12 19:08:32,079 INFO main Thread-25 : Inside get all articles using info
+2022-11-12 19:08:32,080 DEBUG main Thread-25 : Inside get all articles using debug
+2022-11-12 19:08:32,088 INFO werkzeug Thread-25 : 127.0.0.1 - - [12/Nov/2022 19:08:32] "GET / HTTP/1.1" 200 -
+2022-11-12 19:08:32,126 INFO werkzeug Thread-26 : 127.0.0.1 - - [12/Nov/2022 19:08:32] "[36mGET /static/js/custom.js HTTP/1.1[0m" 304 -
+2022-11-12 19:09:06,111 INFO main Thread-27 : Inside get all articles using info
+2022-11-12 19:09:06,112 DEBUG main Thread-27 : Inside get all articles using debug
+2022-11-12 19:09:06,122 INFO werkzeug Thread-27 : 127.0.0.1 - - [12/Nov/2022 19:09:06] "GET / HTTP/1.1" 200 -
+2022-11-12 19:09:06,153 INFO werkzeug Thread-28 : 127.0.0.1 - - [12/Nov/2022 19:09:06] "[36mGET /static/js/custom.js HTTP/1.1[0m" 304 -
+2022-11-12 19:09:29,885 INFO werkzeug Thread-29 : 127.0.0.1 - - [12/Nov/2022 19:09:29] "[32mGET /logout HTTP/1.1[0m" 302 -
+2022-11-12 19:09:29,900 INFO main Thread-30 : Inside get all articles using info
+2022-11-12 19:09:29,905 DEBUG main Thread-30 : Inside get all articles using debug
+2022-11-12 19:09:29,919 INFO werkzeug Thread-30 : 127.0.0.1 - - [12/Nov/2022 19:09:29] "GET / HTTP/1.1" 200 -
+2022-11-12 19:09:29,960 INFO werkzeug Thread-31 : 127.0.0.1 - - [12/Nov/2022 19:09:29] "[36mGET /static/js/custom.js HTTP/1.1[0m" 304 -
+2022-11-12 19:10:09,156 INFO werkzeug Thread-32 : 127.0.0.1 - - [12/Nov/2022 19:10:09] "GET /login HTTP/1.1" 200 -
+2022-11-12 19:10:14,773 DEBUG passlib.handlers.bcrypt Thread-33 : detected 'bcrypt' backend, version '4.0.1'
+2022-11-12 19:10:14,773 DEBUG passlib.handlers.bcrypt Thread-33 : 'bcrypt' backend lacks $2$ support, enabling workaround
+2022-11-12 19:10:15,021 INFO werkzeug Thread-33 : 127.0.0.1 - - [12/Nov/2022 19:10:15] "[32mPOST /login HTTP/1.1[0m" 302 -
+2022-11-12 19:10:15,026 INFO main Thread-34 : Inside get all articles using info
+2022-11-12 19:10:15,027 DEBUG main Thread-34 : Inside get all articles using debug
+2022-11-12 19:10:15,031 INFO werkzeug Thread-34 : 127.0.0.1 - - [12/Nov/2022 19:10:15] "GET / HTTP/1.1" 200 -
+2022-11-12 19:10:15,069 INFO werkzeug Thread-35 : 127.0.0.1 - - [12/Nov/2022 19:10:15] "[36mGET /static/js/custom.js HTTP/1.1[0m" 304 -
+2022-11-12 19:10:53,286 INFO werkzeug Thread-36 : 127.0.0.1 - - [12/Nov/2022 19:10:53] "GET /feedback HTTP/1.1" 200 -
+2022-11-12 19:10:53,330 INFO werkzeug Thread-38 : 127.0.0.1 - - [12/Nov/2022 19:10:53] "GET /static/style.css HTTP/1.1" 200 -
+2022-11-12 19:10:53,332 INFO werkzeug Thread-37 : 127.0.0.1 - - [12/Nov/2022 19:10:53] "GET /static/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 -
+2022-11-12 19:10:53,338 INFO werkzeug Thread-39 : 127.0.0.1 - - [12/Nov/2022 19:10:53] "GET /static/bootstrap/js/bootstrap.min.js HTTP/1.1" 200 -
+2022-11-12 19:10:53,344 INFO werkzeug Thread-40 : 127.0.0.1 - - [12/Nov/2022 19:10:53] "[36mGET /static/js/custom.js HTTP/1.1[0m" 304 -
+2022-11-12 19:10:54,949 INFO werkzeug Thread-41 : 127.0.0.1 - - [12/Nov/2022 19:10:54] "[32mGET /logout HTTP/1.1[0m" 302 -
+2022-11-12 19:10:54,957 INFO main Thread-42 : Inside get all articles using info
+2022-11-12 19:10:54,959 DEBUG main Thread-42 : Inside get all articles using debug
+2022-11-12 19:10:54,969 INFO werkzeug Thread-42 : 127.0.0.1 - - [12/Nov/2022 19:10:54] "GET / HTTP/1.1" 200 -
+2022-11-12 19:10:55,006 INFO werkzeug Thread-43 : 127.0.0.1 - - [12/Nov/2022 19:10:55] "[36mGET /static/js/custom.js HTTP/1.1[0m" 304 -
+2022-11-12 19:11:00,244 INFO werkzeug Thread-44 : 127.0.0.1 - - [12/Nov/2022 19:11:00] "[32mGET /feedback HTTP/1.1[0m" 302 -
+2022-11-12 19:11:00,251 INFO werkzeug Thread-45 : 127.0.0.1 - - [12/Nov/2022 19:11:00] "GET /login?next=%2Ffeedback HTTP/1.1" 200 -
+2022-11-12 19:11:03,056 INFO main Thread-46 : Inside get all articles using info
+2022-11-12 19:11:03,060 DEBUG main Thread-46 : Inside get all articles using debug
+2022-11-12 19:11:03,084 INFO werkzeug Thread-46 : 127.0.0.1 - - [12/Nov/2022 19:11:03] "GET / HTTP/1.1" 200 -
+2022-11-12 19:11:03,200 INFO werkzeug Thread-47 : 127.0.0.1 - - [12/Nov/2022 19:11:03] "GET /static/js/custom.js HTTP/1.1" 200 -
+2022-11-12 19:17:52,621 INFO werkzeug MainThread :  * Detected change in '/home/ram/Desktop/IIT-M/DIPLOMA/MAD-1/experiment-flask-security/application/controllers.py', reloading
+2022-11-12 19:17:52,699 INFO werkzeug MainThread :  * Restarting with stat
+2022-11-12 19:17:53,049 INFO main MainThread : Staring Local Development.
+2022-11-12 19:17:53,052 DEBUG passlib.registry MainThread : registered 'bcrypt' handler: <class 'passlib.handlers.bcrypt.bcrypt'>
+2022-11-12 19:17:53,055 DEBUG passlib.registry MainThread : registered 'des_crypt' handler: <class 'passlib.handlers.des_crypt.des_crypt'>
+2022-11-12 19:17:53,056 DEBUG passlib.registry MainThread : registered 'pbkdf2_sha256' handler: <class 'passlib.handlers.pbkdf2.pbkdf2_sha256'>
+2022-11-12 19:17:53,056 DEBUG passlib.registry MainThread : registered 'pbkdf2_sha512' handler: <class 'passlib.handlers.pbkdf2.pbkdf2_sha512'>
+2022-11-12 19:17:53,057 DEBUG passlib.registry MainThread : registered 'sha256_crypt' handler: <class 'passlib.handlers.sha2_crypt.sha256_crypt'>
+2022-11-12 19:17:53,057 DEBUG passlib.registry MainThread : registered 'sha512_crypt' handler: <class 'passlib.handlers.sha2_crypt.sha512_crypt'>
+2022-11-12 19:17:53,057 DEBUG passlib.registry MainThread : registered 'plaintext' handler: <class 'passlib.handlers.misc.plaintext'>
+2022-11-12 19:17:53,058 DEBUG passlib.registry MainThread : registered 'hex_md5' handler: <class 'passlib.handlers.digests.hex_md5'>
+2022-11-12 19:17:53,062 INFO main MainThread : App setup complete
+2022-11-12 19:17:53,068 WARNING werkzeug MainThread :  * Debugger is active!
+2022-11-12 19:17:53,068 INFO werkzeug MainThread :  * Debugger PIN: 522-690-455
+2022-11-12 19:18:22,511 INFO main Thread-2 : Inside get all articles using info
+2022-11-12 19:18:22,575 DEBUG main Thread-2 : Inside get all articles using debug
+2022-11-12 19:18:22,600 INFO werkzeug Thread-2 : 127.0.0.1 - - [12/Nov/2022 19:18:22] "GET / HTTP/1.1" 200 -
+2022-11-12 19:18:22,641 INFO werkzeug Thread-3 : 127.0.0.1 - - [12/Nov/2022 19:18:22] "[36mGET /static/js/custom.js HTTP/1.1[0m" 304 -
+2022-11-12 19:18:50,628 INFO werkzeug Thread-4 : 127.0.0.1 - - [12/Nov/2022 19:18:50] "GET /login HTTP/1.1" 200 -
+2022-11-12 19:18:58,013 DEBUG passlib.handlers.bcrypt Thread-5 : detected 'bcrypt' backend, version '4.0.1'
+2022-11-12 19:18:58,014 DEBUG passlib.handlers.bcrypt Thread-5 : 'bcrypt' backend lacks $2$ support, enabling workaround
+2022-11-12 19:18:58,270 INFO werkzeug Thread-5 : 127.0.0.1 - - [12/Nov/2022 19:18:58] "[32mPOST /login HTTP/1.1[0m" 302 -
+2022-11-12 19:18:58,278 INFO main Thread-6 : Inside get all articles using info
+2022-11-12 19:18:58,278 DEBUG main Thread-6 : Inside get all articles using debug
+2022-11-12 19:18:58,283 INFO werkzeug Thread-6 : 127.0.0.1 - - [12/Nov/2022 19:18:58] "GET / HTTP/1.1" 200 -
+2022-11-12 19:18:58,313 INFO werkzeug Thread-7 : 127.0.0.1 - - [12/Nov/2022 19:18:58] "[36mGET /static/js/custom.js HTTP/1.1[0m" 304 -
+2022-11-12 19:21:46,696 INFO werkzeug Thread-8 : 127.0.0.1 - - [12/Nov/2022 19:21:46] "[31m[1mGET /articles_by/thejeshgn HTTP/1.1[0m" 403 -
+2022-11-12 19:21:56,949 INFO werkzeug Thread-9 : 127.0.0.1 - - [12/Nov/2022 19:21:56] "[31m[1mGET /articles_by/raj HTTP/1.1[0m" 403 -
+2022-11-12 20:32:30,091 INFO main Thread-10 : Inside get all articles using info
+2022-11-12 20:32:30,092 DEBUG main Thread-10 : Inside get all articles using debug
+2022-11-12 20:32:30,098 INFO werkzeug Thread-10 : 127.0.0.1 - - [12/Nov/2022 20:32:30] "GET / HTTP/1.1" 200 -
+2022-11-12 20:32:30,141 INFO werkzeug Thread-11 : 127.0.0.1 - - [12/Nov/2022 20:32:30] "GET /static/js/custom.js HTTP/1.1" 200 -
+2022-11-12 20:32:32,733 INFO werkzeug Thread-12 : 127.0.0.1 - - [12/Nov/2022 20:32:32] "GET /login HTTP/1.1" 200 -
+2022-11-12 20:32:38,477 INFO werkzeug Thread-13 : 127.0.0.1 - - [12/Nov/2022 20:32:38] "[32mPOST /login HTTP/1.1[0m" 302 -
+2022-11-12 20:32:38,483 INFO main Thread-14 : Inside get all articles using info
+2022-11-12 20:32:38,484 DEBUG main Thread-14 : Inside get all articles using debug
+2022-11-12 20:32:38,489 INFO werkzeug Thread-14 : 127.0.0.1 - - [12/Nov/2022 20:32:38] "GET / HTTP/1.1" 200 -
+2022-11-12 20:32:38,533 INFO werkzeug Thread-15 : 127.0.0.1 - - [12/Nov/2022 20:32:38] "[36mGET /static/js/custom.js HTTP/1.1[0m" 304 -
+2022-11-12 20:32:42,635 INFO werkzeug Thread-16 : 127.0.0.1 - - [12/Nov/2022 20:32:42] "[31m[1mGET /articles_by/raj HTTP/1.1[0m" 403 -
+2022-11-21 13:46:38,208 INFO main MainThread : Staring Local Development.
+2022-11-21 13:46:38,212 DEBUG passlib.registry MainThread : registered 'bcrypt' handler: <class 'passlib.handlers.bcrypt.bcrypt'>
+2022-11-21 13:46:38,214 DEBUG passlib.registry MainThread : registered 'des_crypt' handler: <class 'passlib.handlers.des_crypt.des_crypt'>
+2022-11-21 13:46:38,215 DEBUG passlib.registry MainThread : registered 'pbkdf2_sha256' handler: <class 'passlib.handlers.pbkdf2.pbkdf2_sha256'>
+2022-11-21 13:46:38,215 DEBUG passlib.registry MainThread : registered 'pbkdf2_sha512' handler: <class 'passlib.handlers.pbkdf2.pbkdf2_sha512'>
+2022-11-21 13:46:38,215 DEBUG passlib.registry MainThread : registered 'sha256_crypt' handler: <class 'passlib.handlers.sha2_crypt.sha256_crypt'>
+2022-11-21 13:46:38,215 DEBUG passlib.registry MainThread : registered 'sha512_crypt' handler: <class 'passlib.handlers.sha2_crypt.sha512_crypt'>
+2022-11-21 13:46:38,216 DEBUG passlib.registry MainThread : registered 'plaintext' handler: <class 'passlib.handlers.misc.plaintext'>
+2022-11-21 13:46:38,217 DEBUG passlib.registry MainThread : registered 'hex_md5' handler: <class 'passlib.handlers.digests.hex_md5'>
+2022-11-21 13:46:38,220 INFO main MainThread : App setup complete
+2022-11-21 13:46:38,227 INFO werkzeug MainThread : [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.1.203:8080
+2022-11-21 13:46:38,227 INFO werkzeug MainThread : [33mPress CTRL+C to quit[0m
+2022-11-21 13:46:38,228 INFO werkzeug MainThread :  * Restarting with stat
+2022-11-21 13:46:38,535 INFO main MainThread : Staring Local Development.
+2022-11-21 13:46:38,538 DEBUG passlib.registry MainThread : registered 'bcrypt' handler: <class 'passlib.handlers.bcrypt.bcrypt'>
+2022-11-21 13:46:38,540 DEBUG passlib.registry MainThread : registered 'des_crypt' handler: <class 'passlib.handlers.des_crypt.des_crypt'>
+2022-11-21 13:46:38,540 DEBUG passlib.registry MainThread : registered 'pbkdf2_sha256' handler: <class 'passlib.handlers.pbkdf2.pbkdf2_sha256'>
+2022-11-21 13:46:38,541 DEBUG passlib.registry MainThread : registered 'pbkdf2_sha512' handler: <class 'passlib.handlers.pbkdf2.pbkdf2_sha512'>
+2022-11-21 13:46:38,541 DEBUG passlib.registry MainThread : registered 'sha256_crypt' handler: <class 'passlib.handlers.sha2_crypt.sha256_crypt'>
+2022-11-21 13:46:38,541 DEBUG passlib.registry MainThread : registered 'sha512_crypt' handler: <class 'passlib.handlers.sha2_crypt.sha512_crypt'>
+2022-11-21 13:46:38,541 DEBUG passlib.registry MainThread : registered 'plaintext' handler: <class 'passlib.handlers.misc.plaintext'>
+2022-11-21 13:46:38,542 DEBUG passlib.registry MainThread : registered 'hex_md5' handler: <class 'passlib.handlers.digests.hex_md5'>
+2022-11-21 13:46:38,545 INFO main MainThread : App setup complete
+2022-11-21 13:46:38,549 WARNING werkzeug MainThread :  * Debugger is active!
+2022-11-21 13:46:38,601 INFO werkzeug MainThread :  * Debugger PIN: 132-400-990
+2022-11-21 13:46:49,230 INFO main Thread-2 : Inside get all articles using info
+2022-11-21 13:46:49,232 DEBUG main Thread-2 : Inside get all articles using debug
+2022-11-21 13:46:49,245 INFO werkzeug Thread-2 : 127.0.0.1 - - [21/Nov/2022 13:46:49] "GET / HTTP/1.1" 200 -
+2022-11-21 13:46:49,298 INFO werkzeug Thread-3 : 127.0.0.1 - - [21/Nov/2022 13:46:49] "GET /static/js/custom.js HTTP/1.1" 200 -
+2022-11-21 13:46:50,318 INFO werkzeug Thread-4 : 127.0.0.1 - - [21/Nov/2022 13:46:50] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2022-11-21 13:46:55,884 INFO werkzeug Thread-5 : 127.0.0.1 - - [21/Nov/2022 13:46:55] "GET /article/undefined HTTP/1.1" 200 -
+2022-11-21 13:46:58,541 INFO werkzeug Thread-6 : 127.0.0.1 - - [21/Nov/2022 13:46:58] "GET /article/undefined HTTP/1.1" 200 -
+2022-11-21 13:47:01,448 INFO werkzeug Thread-7 : 127.0.0.1 - - [21/Nov/2022 13:47:01] "[32mGET /logout HTTP/1.1[0m" 302 -
+2022-11-21 13:47:01,453 INFO main Thread-8 : Inside get all articles using info
+2022-11-21 13:47:01,454 DEBUG main Thread-8 : Inside get all articles using debug
+2022-11-21 13:47:01,461 INFO werkzeug Thread-8 : 127.0.0.1 - - [21/Nov/2022 13:47:01] "GET / HTTP/1.1" 200 -
+2022-11-21 13:47:01,499 INFO werkzeug Thread-9 : 127.0.0.1 - - [21/Nov/2022 13:47:01] "[36mGET /static/js/custom.js HTTP/1.1[0m" 304 -
+2022-11-21 13:47:04,260 INFO werkzeug Thread-10 : 127.0.0.1 - - [21/Nov/2022 13:47:04] "GET /article/undefined HTTP/1.1" 200 -
+2022-11-21 13:47:08,565 INFO werkzeug Thread-11 : 127.0.0.1 - - [21/Nov/2022 13:47:08] "[32mGET /articles_by/thejeshgn HTTP/1.1[0m" 302 -
+2022-11-21 13:47:08,602 INFO werkzeug Thread-12 : 127.0.0.1 - - [21/Nov/2022 13:47:08] "GET /login?next=%2Farticles_by%2Fthejeshgn HTTP/1.1" 200 -
+2022-11-21 13:47:11,234 INFO main Thread-13 : Inside get all articles using info
+2022-11-21 13:47:11,239 DEBUG main Thread-13 : Inside get all articles using debug
+2022-11-21 13:47:11,265 INFO werkzeug Thread-13 : 127.0.0.1 - - [21/Nov/2022 13:47:11] "GET / HTTP/1.1" 200 -
+2022-11-21 13:47:11,323 INFO werkzeug Thread-14 : 127.0.0.1 - - [21/Nov/2022 13:47:11] "GET /static/js/custom.js HTTP/1.1" 200 -
+2022-11-21 13:47:17,614 INFO werkzeug Thread-15 : 127.0.0.1 - - [21/Nov/2022 13:47:17] "GET /article/undefined HTTP/1.1" 200 -
+2022-11-21 13:47:20,914 INFO werkzeug Thread-16 : 127.0.0.1 - - [21/Nov/2022 13:47:20] "GET /article/undefined HTTP/1.1" 200 -
+2022-11-21 13:47:21,795 INFO werkzeug Thread-17 : 127.0.0.1 - - [21/Nov/2022 13:47:21] "GET /article/undefined HTTP/1.1" 200 -
+2022-11-21 13:47:24,194 INFO werkzeug Thread-18 : 127.0.0.1 - - [21/Nov/2022 13:47:24] "GET /login HTTP/1.1" 200 -
+2022-11-21 13:47:31,650 DEBUG passlib.handlers.bcrypt Thread-19 : detected 'bcrypt' backend, version '4.0.1'
+2022-11-21 13:47:31,651 DEBUG passlib.handlers.bcrypt Thread-19 : 'bcrypt' backend lacks $2$ support, enabling workaround
+2022-11-21 13:47:31,963 INFO werkzeug Thread-19 : 127.0.0.1 - - [21/Nov/2022 13:47:31] "[32mPOST /login HTTP/1.1[0m" 302 -
+2022-11-21 13:47:32,010 INFO werkzeug Thread-20 : 127.0.0.1 - - [21/Nov/2022 13:47:32] "[32mPOST /login HTTP/1.1[0m" 302 -
+2022-11-21 13:47:32,015 INFO main Thread-21 : Inside get all articles using info
+2022-11-21 13:47:32,015 DEBUG main Thread-21 : Inside get all articles using debug
+2022-11-21 13:47:32,021 INFO werkzeug Thread-21 : 127.0.0.1 - - [21/Nov/2022 13:47:32] "GET / HTTP/1.1" 200 -
+2022-11-21 13:47:32,049 INFO werkzeug Thread-22 : 127.0.0.1 - - [21/Nov/2022 13:47:32] "[36mGET /static/js/custom.js HTTP/1.1[0m" 304 -
+2022-11-21 13:47:36,597 INFO werkzeug Thread-23 : 127.0.0.1 - - [21/Nov/2022 13:47:36] "GET /article/undefined HTTP/1.1" 200 -
+2022-11-21 14:09:59,958 INFO werkzeug Thread-24 : 127.0.0.1 - - [21/Nov/2022 14:09:59] "GET /article/undefined HTTP/1.1" 200 -
+2022-12-06 19:14:51,994 INFO main MainThread : Staring Local Development.
+2022-12-06 19:14:51,998 DEBUG passlib.registry MainThread : registered 'bcrypt' handler: <class 'passlib.handlers.bcrypt.bcrypt'>
+2022-12-06 19:14:52,002 DEBUG passlib.registry MainThread : registered 'des_crypt' handler: <class 'passlib.handlers.des_crypt.des_crypt'>
+2022-12-06 19:14:52,003 DEBUG passlib.registry MainThread : registered 'pbkdf2_sha256' handler: <class 'passlib.handlers.pbkdf2.pbkdf2_sha256'>
+2022-12-06 19:14:52,003 DEBUG passlib.registry MainThread : registered 'pbkdf2_sha512' handler: <class 'passlib.handlers.pbkdf2.pbkdf2_sha512'>
+2022-12-06 19:14:52,004 DEBUG passlib.registry MainThread : registered 'sha256_crypt' handler: <class 'passlib.handlers.sha2_crypt.sha256_crypt'>
+2022-12-06 19:14:52,004 DEBUG passlib.registry MainThread : registered 'sha512_crypt' handler: <class 'passlib.handlers.sha2_crypt.sha512_crypt'>
+2022-12-06 19:14:52,004 DEBUG passlib.registry MainThread : registered 'plaintext' handler: <class 'passlib.handlers.misc.plaintext'>
+2022-12-06 19:14:52,006 DEBUG passlib.registry MainThread : registered 'hex_md5' handler: <class 'passlib.handlers.digests.hex_md5'>
+2022-12-06 19:14:52,010 INFO main MainThread : App setup complete
+2022-12-06 19:14:52,016 INFO werkzeug MainThread : [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.43.116:8080
+2022-12-06 19:14:52,016 INFO werkzeug MainThread : [33mPress CTRL+C to quit[0m
+2022-12-06 19:14:52,017 INFO werkzeug MainThread :  * Restarting with stat
+2022-12-06 19:14:52,354 INFO main MainThread : Staring Local Development.
+2022-12-06 19:14:52,356 DEBUG passlib.registry MainThread : registered 'bcrypt' handler: <class 'passlib.handlers.bcrypt.bcrypt'>
+2022-12-06 19:14:52,359 DEBUG passlib.registry MainThread : registered 'des_crypt' handler: <class 'passlib.handlers.des_crypt.des_crypt'>
+2022-12-06 19:14:52,359 DEBUG passlib.registry MainThread : registered 'pbkdf2_sha256' handler: <class 'passlib.handlers.pbkdf2.pbkdf2_sha256'>
+2022-12-06 19:14:52,359 DEBUG passlib.registry MainThread : registered 'pbkdf2_sha512' handler: <class 'passlib.handlers.pbkdf2.pbkdf2_sha512'>
+2022-12-06 19:14:52,360 DEBUG passlib.registry MainThread : registered 'sha256_crypt' handler: <class 'passlib.handlers.sha2_crypt.sha256_crypt'>
+2022-12-06 19:14:52,360 DEBUG passlib.registry MainThread : registered 'sha512_crypt' handler: <class 'passlib.handlers.sha2_crypt.sha512_crypt'>
+2022-12-06 19:14:52,360 DEBUG passlib.registry MainThread : registered 'plaintext' handler: <class 'passlib.handlers.misc.plaintext'>
+2022-12-06 19:14:52,361 DEBUG passlib.registry MainThread : registered 'hex_md5' handler: <class 'passlib.handlers.digests.hex_md5'>
+2022-12-06 19:14:52,364 INFO main MainThread : App setup complete
+2022-12-06 19:14:52,370 WARNING werkzeug MainThread :  * Debugger is active!
+2022-12-06 19:14:52,370 INFO werkzeug MainThread :  * Debugger PIN: 132-522-492
+2022-12-06 19:14:56,145 INFO main Thread-2 : Inside get all articles using info
+2022-12-06 19:14:56,174 DEBUG main Thread-2 : Inside get all articles using debug
+2022-12-06 19:14:56,188 INFO werkzeug Thread-2 : 127.0.0.1 - - [06/Dec/2022 19:14:56] "GET / HTTP/1.1" 200 -
+2022-12-06 19:14:56,224 INFO werkzeug Thread-3 : 127.0.0.1 - - [06/Dec/2022 19:14:56] "GET /static/js/custom.js HTTP/1.1" 200 -
+2022-12-06 19:15:01,899 INFO werkzeug Thread-4 : 127.0.0.1 - - [06/Dec/2022 19:15:01] "GET /login HTTP/1.1" 200 -
+2022-12-06 19:15:07,603 DEBUG passlib.handlers.bcrypt Thread-5 : detected 'bcrypt' backend, version '4.0.1'
+2022-12-06 19:15:07,604 DEBUG passlib.handlers.bcrypt Thread-5 : 'bcrypt' backend lacks $2$ support, enabling workaround
+2022-12-06 19:15:07,926 INFO werkzeug Thread-5 : 127.0.0.1 - - [06/Dec/2022 19:15:07] "[32mPOST /login HTTP/1.1[0m" 302 -
+2022-12-06 19:15:07,934 INFO main Thread-6 : Inside get all articles using info
+2022-12-06 19:15:07,934 DEBUG main Thread-6 : Inside get all articles using debug
+2022-12-06 19:15:07,938 INFO werkzeug Thread-6 : 127.0.0.1 - - [06/Dec/2022 19:15:07] "GET / HTTP/1.1" 200 -
+2022-12-06 19:15:07,974 INFO werkzeug Thread-7 : 127.0.0.1 - - [06/Dec/2022 19:15:07] "[36mGET /static/js/custom.js HTTP/1.1[0m" 304 -
+2022-12-06 19:15:10,799 INFO werkzeug Thread-8 : 127.0.0.1 - - [06/Dec/2022 19:15:10] "GET /article/undefined HTTP/1.1" 200 -
+2022-12-06 19:15:13,144 INFO werkzeug Thread-9 : 127.0.0.1 - - [06/Dec/2022 19:15:13] "GET /article/undefined HTTP/1.1" 200 -
+2022-12-06 19:15:15,202 INFO werkzeug Thread-10 : 127.0.0.1 - - [06/Dec/2022 19:15:15] "[31m[1mGET /articles_by/raj HTTP/1.1[0m" 403 -
+2022-12-06 19:15:21,810 INFO werkzeug Thread-11 : 127.0.0.1 - - [06/Dec/2022 19:15:21] "[32mGET /logout HTTP/1.1[0m" 302 -
+2022-12-06 19:15:21,827 INFO main Thread-12 : Inside get all articles using info
+2022-12-06 19:15:21,830 DEBUG main Thread-12 : Inside get all articles using debug
+2022-12-06 19:15:21,841 INFO werkzeug Thread-12 : 127.0.0.1 - - [06/Dec/2022 19:15:21] "GET / HTTP/1.1" 200 -
+2022-12-06 19:15:21,872 INFO werkzeug Thread-13 : 127.0.0.1 - - [06/Dec/2022 19:15:21] "[36mGET /static/js/custom.js HTTP/1.1[0m" 304 -
+2022-12-06 19:15:23,710 INFO werkzeug Thread-14 : 127.0.0.1 - - [06/Dec/2022 19:15:23] "[32mGET /articles_by/thejeshgn HTTP/1.1[0m" 302 -
+2022-12-06 19:15:23,721 INFO werkzeug Thread-15 : 127.0.0.1 - - [06/Dec/2022 19:15:23] "GET /login?next=%2Farticles_by%2Fthejeshgn HTTP/1.1" 200 -
+2022-12-06 19:15:25,402 INFO main Thread-16 : Inside get all articles using info
+2022-12-06 19:15:25,407 DEBUG main Thread-16 : Inside get all articles using debug
+2022-12-06 19:15:25,428 INFO werkzeug Thread-16 : 127.0.0.1 - - [06/Dec/2022 19:15:25] "GET / HTTP/1.1" 200 -
+2022-12-06 19:22:10,932 INFO main MainThread : Staring Local Development.
+2022-12-06 19:22:10,935 DEBUG passlib.registry MainThread : registered 'bcrypt' handler: <class 'passlib.handlers.bcrypt.bcrypt'>
+2022-12-06 19:22:10,937 DEBUG passlib.registry MainThread : registered 'des_crypt' handler: <class 'passlib.handlers.des_crypt.des_crypt'>
+2022-12-06 19:22:10,938 DEBUG passlib.registry MainThread : registered 'pbkdf2_sha256' handler: <class 'passlib.handlers.pbkdf2.pbkdf2_sha256'>
+2022-12-06 19:22:10,938 DEBUG passlib.registry MainThread : registered 'pbkdf2_sha512' handler: <class 'passlib.handlers.pbkdf2.pbkdf2_sha512'>
+2022-12-06 19:22:10,938 DEBUG passlib.registry MainThread : registered 'sha256_crypt' handler: <class 'passlib.handlers.sha2_crypt.sha256_crypt'>
+2022-12-06 19:22:10,938 DEBUG passlib.registry MainThread : registered 'sha512_crypt' handler: <class 'passlib.handlers.sha2_crypt.sha512_crypt'>
+2022-12-06 19:22:10,939 DEBUG passlib.registry MainThread : registered 'plaintext' handler: <class 'passlib.handlers.misc.plaintext'>
+2022-12-06 19:22:10,940 DEBUG passlib.registry MainThread : registered 'hex_md5' handler: <class 'passlib.handlers.digests.hex_md5'>
+2022-12-06 19:22:10,943 INFO main MainThread : App setup complete
+2022-12-06 19:22:10,950 INFO werkzeug MainThread : [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.43.116:8080
+2022-12-06 19:22:10,950 INFO werkzeug MainThread : [33mPress CTRL+C to quit[0m
+2022-12-06 19:22:10,951 INFO werkzeug MainThread :  * Restarting with stat
+2022-12-06 19:22:11,295 INFO main MainThread : Staring Local Development.
+2022-12-06 19:22:11,298 DEBUG passlib.registry MainThread : registered 'bcrypt' handler: <class 'passlib.handlers.bcrypt.bcrypt'>
+2022-12-06 19:22:11,300 DEBUG passlib.registry MainThread : registered 'des_crypt' handler: <class 'passlib.handlers.des_crypt.des_crypt'>
+2022-12-06 19:22:11,301 DEBUG passlib.registry MainThread : registered 'pbkdf2_sha256' handler: <class 'passlib.handlers.pbkdf2.pbkdf2_sha256'>
+2022-12-06 19:22:11,301 DEBUG passlib.registry MainThread : registered 'pbkdf2_sha512' handler: <class 'passlib.handlers.pbkdf2.pbkdf2_sha512'>
+2022-12-06 19:22:11,301 DEBUG passlib.registry MainThread : registered 'sha256_crypt' handler: <class 'passlib.handlers.sha2_crypt.sha256_crypt'>
+2022-12-06 19:22:11,301 DEBUG passlib.registry MainThread : registered 'sha512_crypt' handler: <class 'passlib.handlers.sha2_crypt.sha512_crypt'>
+2022-12-06 19:22:11,302 DEBUG passlib.registry MainThread : registered 'plaintext' handler: <class 'passlib.handlers.misc.plaintext'>
+2022-12-06 19:22:11,303 DEBUG passlib.registry MainThread : registered 'hex_md5' handler: <class 'passlib.handlers.digests.hex_md5'>
+2022-12-06 19:22:11,306 INFO main MainThread : App setup complete
+2022-12-06 19:22:11,311 WARNING werkzeug MainThread :  * Debugger is active!
+2022-12-06 19:22:11,312 INFO werkzeug MainThread :  * Debugger PIN: 127-465-613
+2022-12-06 19:22:19,215 INFO main Thread-2 : Inside get all articles using info
+2022-12-06 19:22:19,241 DEBUG main Thread-2 : Inside get all articles using debug
+2022-12-06 19:22:19,259 INFO werkzeug Thread-2 : 127.0.0.1 - - [06/Dec/2022 19:22:19] "GET / HTTP/1.1" 200 -
+2022-12-06 19:22:19,313 INFO werkzeug Thread-3 : 127.0.0.1 - - [06/Dec/2022 19:22:19] "GET /static/js/custom.js HTTP/1.1" 200 -
+2022-12-10 08:50:58,403 INFO main MainThread : Staring Local Development.
+2022-12-10 08:50:58,407 DEBUG passlib.registry MainThread : registered 'bcrypt' handler: <class 'passlib.handlers.bcrypt.bcrypt'>
+2022-12-10 08:50:58,410 DEBUG passlib.registry MainThread : registered 'des_crypt' handler: <class 'passlib.handlers.des_crypt.des_crypt'>
+2022-12-10 08:50:58,412 DEBUG passlib.registry MainThread : registered 'pbkdf2_sha256' handler: <class 'passlib.handlers.pbkdf2.pbkdf2_sha256'>
+2022-12-10 08:50:58,412 DEBUG passlib.registry MainThread : registered 'pbkdf2_sha512' handler: <class 'passlib.handlers.pbkdf2.pbkdf2_sha512'>
+2022-12-10 08:50:58,412 DEBUG passlib.registry MainThread : registered 'sha256_crypt' handler: <class 'passlib.handlers.sha2_crypt.sha256_crypt'>
+2022-12-10 08:50:58,412 DEBUG passlib.registry MainThread : registered 'sha512_crypt' handler: <class 'passlib.handlers.sha2_crypt.sha512_crypt'>
+2022-12-10 08:50:58,413 DEBUG passlib.registry MainThread : registered 'plaintext' handler: <class 'passlib.handlers.misc.plaintext'>
+2022-12-10 08:50:58,414 DEBUG passlib.registry MainThread : registered 'hex_md5' handler: <class 'passlib.handlers.digests.hex_md5'>
+2022-12-10 08:50:58,417 INFO main MainThread : App setup complete
+2022-12-10 08:50:58,424 INFO werkzeug MainThread : [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.43.116:8080
+2022-12-10 08:50:58,424 INFO werkzeug MainThread : [33mPress CTRL+C to quit[0m
+2022-12-10 08:50:58,425 INFO werkzeug MainThread :  * Restarting with stat
+2022-12-10 08:50:58,778 INFO main MainThread : Staring Local Development.
+2022-12-10 08:50:58,782 DEBUG passlib.registry MainThread : registered 'bcrypt' handler: <class 'passlib.handlers.bcrypt.bcrypt'>
+2022-12-10 08:50:58,785 DEBUG passlib.registry MainThread : registered 'des_crypt' handler: <class 'passlib.handlers.des_crypt.des_crypt'>
+2022-12-10 08:50:58,786 DEBUG passlib.registry MainThread : registered 'pbkdf2_sha256' handler: <class 'passlib.handlers.pbkdf2.pbkdf2_sha256'>
+2022-12-10 08:50:58,786 DEBUG passlib.registry MainThread : registered 'pbkdf2_sha512' handler: <class 'passlib.handlers.pbkdf2.pbkdf2_sha512'>
+2022-12-10 08:50:58,787 DEBUG passlib.registry MainThread : registered 'sha256_crypt' handler: <class 'passlib.handlers.sha2_crypt.sha256_crypt'>
+2022-12-10 08:50:58,787 DEBUG passlib.registry MainThread : registered 'sha512_crypt' handler: <class 'passlib.handlers.sha2_crypt.sha512_crypt'>
+2022-12-10 08:50:58,787 DEBUG passlib.registry MainThread : registered 'plaintext' handler: <class 'passlib.handlers.misc.plaintext'>
+2022-12-10 08:50:58,788 DEBUG passlib.registry MainThread : registered 'hex_md5' handler: <class 'passlib.handlers.digests.hex_md5'>
+2022-12-10 08:50:58,792 INFO main MainThread : App setup complete
+2022-12-10 08:50:58,797 WARNING werkzeug MainThread :  * Debugger is active!
+2022-12-10 08:50:58,850 INFO werkzeug MainThread :  * Debugger PIN: 545-944-441
+2022-12-10 09:44:56,243 INFO main MainThread : Start testing
+2022-12-10 09:44:56,246 DEBUG passlib.registry MainThread : registered 'bcrypt' handler: <class 'passlib.handlers.bcrypt.bcrypt'>
+2022-12-10 09:44:56,248 DEBUG passlib.registry MainThread : registered 'des_crypt' handler: <class 'passlib.handlers.des_crypt.des_crypt'>
+2022-12-10 09:44:56,249 DEBUG passlib.registry MainThread : registered 'pbkdf2_sha256' handler: <class 'passlib.handlers.pbkdf2.pbkdf2_sha256'>
+2022-12-10 09:44:56,249 DEBUG passlib.registry MainThread : registered 'pbkdf2_sha512' handler: <class 'passlib.handlers.pbkdf2.pbkdf2_sha512'>
+2022-12-10 09:44:56,249 DEBUG passlib.registry MainThread : registered 'sha256_crypt' handler: <class 'passlib.handlers.sha2_crypt.sha256_crypt'>
+2022-12-10 09:44:56,249 DEBUG passlib.registry MainThread : registered 'sha512_crypt' handler: <class 'passlib.handlers.sha2_crypt.sha512_crypt'>
+2022-12-10 09:44:56,250 DEBUG passlib.registry MainThread : registered 'plaintext' handler: <class 'passlib.handlers.misc.plaintext'>
+2022-12-10 09:44:56,251 DEBUG passlib.registry MainThread : registered 'hex_md5' handler: <class 'passlib.handlers.digests.hex_md5'>
+2022-12-10 09:44:56,253 INFO main MainThread : App setup complete
+2022-12-10 09:44:56,306 INFO main MainThread : Inside get all articles using info
+2022-12-10 09:44:56,314 DEBUG main MainThread : Inside get all articles using debug
+2022-12-10 09:44:56,328 INFO main MainThread : Inside get all articles using info
+2022-12-10 09:44:56,329 DEBUG main MainThread : Inside get all articles using debug
