@@ -1,0 +1,87 @@
+2022-12-06 19:07:39,923 INFO main MainThread : Staring Local Development.
+2022-12-06 19:07:39,923 INFO main MainThread : App setup complete
+2022-12-06 19:07:39,926 DEBUG passlib.registry MainThread : registered 'bcrypt' handler: <class 'passlib.handlers.bcrypt.bcrypt'>
+2022-12-06 19:07:39,929 DEBUG passlib.registry MainThread : registered 'des_crypt' handler: <class 'passlib.handlers.des_crypt.des_crypt'>
+2022-12-06 19:07:39,930 DEBUG passlib.registry MainThread : registered 'pbkdf2_sha256' handler: <class 'passlib.handlers.pbkdf2.pbkdf2_sha256'>
+2022-12-06 19:07:39,930 DEBUG passlib.registry MainThread : registered 'pbkdf2_sha512' handler: <class 'passlib.handlers.pbkdf2.pbkdf2_sha512'>
+2022-12-06 19:07:39,930 DEBUG passlib.registry MainThread : registered 'sha256_crypt' handler: <class 'passlib.handlers.sha2_crypt.sha256_crypt'>
+2022-12-06 19:07:39,930 DEBUG passlib.registry MainThread : registered 'sha512_crypt' handler: <class 'passlib.handlers.sha2_crypt.sha512_crypt'>
+2022-12-06 19:07:39,931 DEBUG passlib.registry MainThread : registered 'plaintext' handler: <class 'passlib.handlers.misc.plaintext'>
+2022-12-06 19:07:39,932 DEBUG passlib.registry MainThread : registered 'hex_md5' handler: <class 'passlib.handlers.digests.hex_md5'>
+2022-12-06 19:07:39,941 INFO werkzeug MainThread : [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.43.116:8080
+2022-12-06 19:07:39,941 INFO werkzeug MainThread : [33mPress CTRL+C to quit[0m
+2022-12-06 19:07:39,942 INFO werkzeug MainThread :  * Restarting with stat
+2022-12-06 19:07:40,342 INFO main MainThread : Staring Local Development.
+2022-12-06 19:07:40,342 INFO main MainThread : App setup complete
+2022-12-06 19:07:40,345 DEBUG passlib.registry MainThread : registered 'bcrypt' handler: <class 'passlib.handlers.bcrypt.bcrypt'>
+2022-12-06 19:07:40,348 DEBUG passlib.registry MainThread : registered 'des_crypt' handler: <class 'passlib.handlers.des_crypt.des_crypt'>
+2022-12-06 19:07:40,349 DEBUG passlib.registry MainThread : registered 'pbkdf2_sha256' handler: <class 'passlib.handlers.pbkdf2.pbkdf2_sha256'>
+2022-12-06 19:07:40,349 DEBUG passlib.registry MainThread : registered 'pbkdf2_sha512' handler: <class 'passlib.handlers.pbkdf2.pbkdf2_sha512'>
+2022-12-06 19:07:40,349 DEBUG passlib.registry MainThread : registered 'sha256_crypt' handler: <class 'passlib.handlers.sha2_crypt.sha256_crypt'>
+2022-12-06 19:07:40,349 DEBUG passlib.registry MainThread : registered 'sha512_crypt' handler: <class 'passlib.handlers.sha2_crypt.sha512_crypt'>
+2022-12-06 19:07:40,350 DEBUG passlib.registry MainThread : registered 'plaintext' handler: <class 'passlib.handlers.misc.plaintext'>
+2022-12-06 19:07:40,351 DEBUG passlib.registry MainThread : registered 'hex_md5' handler: <class 'passlib.handlers.digests.hex_md5'>
+2022-12-06 19:07:40,359 WARNING werkzeug MainThread :  * Debugger is active!
+2022-12-06 19:07:40,419 INFO werkzeug MainThread :  * Debugger PIN: 854-049-987
+2022-12-06 19:07:47,941 INFO main Thread-2 : Inside get all articles using info
+2022-12-06 19:07:47,960 DEBUG main Thread-2 : Inside get all articles using debug
+2022-12-06 19:07:47,978 INFO werkzeug Thread-2 : 127.0.0.1 - - [06/Dec/2022 19:07:47] "GET / HTTP/1.1" 200 -
+2022-12-06 19:07:48,046 INFO werkzeug Thread-4 : 127.0.0.1 - - [06/Dec/2022 19:07:48] "GET /static/style.css HTTP/1.1" 200 -
+2022-12-06 19:07:48,047 INFO werkzeug Thread-3 : 127.0.0.1 - - [06/Dec/2022 19:07:48] "GET /static/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 -
+2022-12-06 19:07:48,051 INFO werkzeug Thread-5 : 127.0.0.1 - - [06/Dec/2022 19:07:48] "GET /static/bootstrap/js/bootstrap.min.js HTTP/1.1" 200 -
+2022-12-06 19:07:48,053 INFO werkzeug Thread-6 : 127.0.0.1 - - [06/Dec/2022 19:07:48] "GET /static/js/custom.js HTTP/1.1" 200 -
+2022-12-06 19:07:50,447 INFO werkzeug Thread-7 : 127.0.0.1 - - [06/Dec/2022 19:07:50] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2022-12-06 19:12:58,577 INFO main MainThread : Staring Local Development.
+2022-12-06 19:12:58,577 INFO main MainThread : App setup complete
+2022-12-06 19:12:58,580 DEBUG passlib.registry MainThread : registered 'bcrypt' handler: <class 'passlib.handlers.bcrypt.bcrypt'>
+2022-12-06 19:12:58,583 DEBUG passlib.registry MainThread : registered 'des_crypt' handler: <class 'passlib.handlers.des_crypt.des_crypt'>
+2022-12-06 19:12:58,584 DEBUG passlib.registry MainThread : registered 'pbkdf2_sha256' handler: <class 'passlib.handlers.pbkdf2.pbkdf2_sha256'>
+2022-12-06 19:12:58,584 DEBUG passlib.registry MainThread : registered 'pbkdf2_sha512' handler: <class 'passlib.handlers.pbkdf2.pbkdf2_sha512'>
+2022-12-06 19:12:58,584 DEBUG passlib.registry MainThread : registered 'sha256_crypt' handler: <class 'passlib.handlers.sha2_crypt.sha256_crypt'>
+2022-12-06 19:12:58,584 DEBUG passlib.registry MainThread : registered 'sha512_crypt' handler: <class 'passlib.handlers.sha2_crypt.sha512_crypt'>
+2022-12-06 19:12:58,585 DEBUG passlib.registry MainThread : registered 'plaintext' handler: <class 'passlib.handlers.misc.plaintext'>
+2022-12-06 19:12:58,586 DEBUG passlib.registry MainThread : registered 'hex_md5' handler: <class 'passlib.handlers.digests.hex_md5'>
+2022-12-06 19:12:58,595 INFO werkzeug MainThread : [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.43.116:8080
+2022-12-06 19:12:58,595 INFO werkzeug MainThread : [33mPress CTRL+C to quit[0m
+2022-12-06 19:12:58,595 INFO werkzeug MainThread :  * Restarting with stat
+2022-12-06 19:12:58,932 INFO main MainThread : Staring Local Development.
+2022-12-06 19:12:58,932 INFO main MainThread : App setup complete
+2022-12-06 19:12:58,936 DEBUG passlib.registry MainThread : registered 'bcrypt' handler: <class 'passlib.handlers.bcrypt.bcrypt'>
+2022-12-06 19:12:58,938 DEBUG passlib.registry MainThread : registered 'des_crypt' handler: <class 'passlib.handlers.des_crypt.des_crypt'>
+2022-12-06 19:12:58,939 DEBUG passlib.registry MainThread : registered 'pbkdf2_sha256' handler: <class 'passlib.handlers.pbkdf2.pbkdf2_sha256'>
+2022-12-06 19:12:58,939 DEBUG passlib.registry MainThread : registered 'pbkdf2_sha512' handler: <class 'passlib.handlers.pbkdf2.pbkdf2_sha512'>
+2022-12-06 19:12:58,939 DEBUG passlib.registry MainThread : registered 'sha256_crypt' handler: <class 'passlib.handlers.sha2_crypt.sha256_crypt'>
+2022-12-06 19:12:58,939 DEBUG passlib.registry MainThread : registered 'sha512_crypt' handler: <class 'passlib.handlers.sha2_crypt.sha512_crypt'>
+2022-12-06 19:12:58,940 DEBUG passlib.registry MainThread : registered 'plaintext' handler: <class 'passlib.handlers.misc.plaintext'>
+2022-12-06 19:12:58,941 DEBUG passlib.registry MainThread : registered 'hex_md5' handler: <class 'passlib.handlers.digests.hex_md5'>
+2022-12-06 19:12:58,948 WARNING werkzeug MainThread :  * Debugger is active!
+2022-12-06 19:12:58,949 INFO werkzeug MainThread :  * Debugger PIN: 854-049-987
+2022-12-06 19:13:09,206 INFO main Thread-2 : Inside get all articles using info
+2022-12-06 19:13:09,208 DEBUG main Thread-2 : Inside get all articles using debug
+2022-12-06 19:13:09,225 INFO werkzeug Thread-2 : 127.0.0.1 - - [06/Dec/2022 19:13:09] "GET / HTTP/1.1" 200 -
+2022-12-06 19:13:09,289 INFO werkzeug Thread-4 : 127.0.0.1 - - [06/Dec/2022 19:13:09] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2022-12-06 19:13:09,291 INFO werkzeug Thread-3 : 127.0.0.1 - - [06/Dec/2022 19:13:09] "[36mGET /static/bootstrap/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+2022-12-06 19:13:09,297 INFO werkzeug Thread-5 : 127.0.0.1 - - [06/Dec/2022 19:13:09] "[36mGET /static/bootstrap/js/bootstrap.min.js HTTP/1.1[0m" 304 -
+2022-12-06 19:13:09,303 INFO werkzeug Thread-6 : 127.0.0.1 - - [06/Dec/2022 19:13:09] "[36mGET /static/js/custom.js HTTP/1.1[0m" 304 -
+2022-12-06 19:13:11,334 INFO werkzeug Thread-7 : 127.0.0.1 - - [06/Dec/2022 19:13:11] "GET /login HTTP/1.1" 200 -
+2022-12-06 19:13:22,193 INFO werkzeug Thread-8 : 127.0.0.1 - - [06/Dec/2022 19:13:22] "POST /login HTTP/1.1" 200 -
+2022-12-06 19:13:26,720 INFO werkzeug Thread-9 : 127.0.0.1 - - [06/Dec/2022 19:13:26] "GET /register HTTP/1.1" 200 -
+2022-12-06 19:13:54,311 DEBUG passlib.handlers.bcrypt Thread-10 : detected 'bcrypt' backend, version '4.0.1'
+2022-12-06 19:13:54,311 DEBUG passlib.handlers.bcrypt Thread-10 : 'bcrypt' backend lacks $2$ support, enabling workaround
+2022-12-06 19:13:54,624 INFO werkzeug Thread-10 : 127.0.0.1 - - [06/Dec/2022 19:13:54] "[32mPOST /register HTTP/1.1[0m" 302 -
+2022-12-06 19:13:54,637 INFO main Thread-11 : Inside get all articles using info
+2022-12-06 19:13:54,639 DEBUG main Thread-11 : Inside get all articles using debug
+2022-12-06 19:13:54,647 INFO werkzeug Thread-11 : 127.0.0.1 - - [06/Dec/2022 19:13:54] "GET / HTTP/1.1" 200 -
+2022-12-06 19:13:54,697 INFO werkzeug Thread-13 : 127.0.0.1 - - [06/Dec/2022 19:13:54] "GET /static/style.css HTTP/1.1" 200 -
+2022-12-06 19:13:54,707 INFO werkzeug Thread-12 : 127.0.0.1 - - [06/Dec/2022 19:13:54] "GET /static/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 -
+2022-12-06 19:13:54,720 INFO werkzeug Thread-14 : 127.0.0.1 - - [06/Dec/2022 19:13:54] "GET /static/bootstrap/js/bootstrap.min.js HTTP/1.1" 200 -
+2022-12-06 19:13:54,723 INFO werkzeug Thread-15 : 127.0.0.1 - - [06/Dec/2022 19:13:54] "GET /static/js/custom.js HTTP/1.1" 200 -
+2022-12-06 19:14:00,000 INFO werkzeug Thread-16 : 127.0.0.1 - - [06/Dec/2022 19:14:00] "GET /articles_by/raj HTTP/1.1" 200 -
+2022-12-06 19:14:00,039 INFO werkzeug Thread-17 : 127.0.0.1 - - [06/Dec/2022 19:14:00] "[36mGET /static/bootstrap/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+2022-12-06 19:14:00,047 INFO werkzeug Thread-18 : 127.0.0.1 - - [06/Dec/2022 19:14:00] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
